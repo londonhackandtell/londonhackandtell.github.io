@@ -9,7 +9,7 @@ Check list of things London Hack and Tell uses for organizing:
  * [Github org](https://github.com/londonhackandtell)
  <!-- * FIXME JD: [Google doc signup form](https://docs.google.com/forms/d/15F33kAQFgI825JECUI7uAqXrdgbr1dkjO0DRK4MOKq4/viewform) -->
  <!-- * FIXME JD: [Google doc for notes](https://docs.google.com/document/d/1DM_qVHEGPNP-UzSGKNlee8lmroNqap4Fg4RgERxxTiY/edit) -->
- * [Twitter account](https://twitter.com/hackandtellnd)
+ * [Twitter account](https://twitter.com/hackandtellLDN)
  * Gmail account
 
 ## Editor's notes
