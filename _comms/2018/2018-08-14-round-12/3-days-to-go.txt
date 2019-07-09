@@ -1,0 +1,32 @@
+# Message from 2018-08-04
+
+### Twitter
+
+Wondering what's the next London Hack&&Tell is going to bring?
+So are  we! Speaker list coming soon please signup for 14. Aug for "Rice Paper of Envy"
+https://goo.gl/forms/34zs7dEoOetKNJe93
+
+### Meetup
+
+Subject:
+COUNTDOWN till Tuesday Round #12
+
+Body:
+Good morning London Hackers!
+
+Hope y'all having a great weekend. Three more day, only three and you'll find out all that you wanted to know about the hacks... but were afraid to ask.
+
+Our upcoming meetup is this Tue, on Aug 14th, in Enterpreneur First HQ. Minor venue change from Block M to Block L but it's all the same place really. The food will arrive at 6.30pm and we'll start the talks 20-30 min after that.
+
+We already have SEVEN awesome hacks signed up. Come this Tuesday to hear about
+- Dating 3.0 : Acquisition, Activation, Retention
+- ML meets tricky dice
+- Maker of an optimised playlist of youtube TED talks, based on your input preferences etc
+- Breaking Bad PDFs
+- Billions And Billions... of SQL inserts
+- Shoreditch Flat White Index
+- Fool me once, fool me twice, get me a lobbyist
+
+Best pesto,
+
+London Hack && Tell Team

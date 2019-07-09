@@ -1,0 +1,30 @@
+# Message from 2018-09-13
+
+### Meetup
+
+Subject:
+INCOMING: Round 13 "Optimus Fourier"
+
+Body:
+
+Good morning London Hackers!
+
+See you all tonight for a series of thrilling hacks!
+
+Please keep in mind the venue change: we're meeting at Campus London, 4-5 Bonhill Street. Don't go to Bermondsey by mistake ;-)
+
+Pizza will arrive at 6.30pm and we'll start the talks at 7pm. There is more security at Campus London – I'll greet you at the door and take you downstairs to the cafeteria. We're still working on getting soft-drinks but we won't be able to bring in alcoholic drinks into Google Campus.
+
+Here are the hacks!
+- "How to come up with over 1000 content ideas in 15 minutes"
+- "My English NLP-ised"
+- "Orbs Game"
+- "Semantic Analysis, Visualisation and transpilation of buildscripts"
+- "Cracking the code... of the pizza promo code"
+
+We thank our pizza sponsors, Entrepreneur First [@join_ef](https://twitter.com/join_ef)
+As well as Campus London for hosting the event [@CampusLondon](https://twitter.com/CampusLondon)
+
+Best wishes,
+
+- Janski, your local organizer

@@ -1,0 +1,49 @@
+# Message from 2019-07-04
+
+### Seedcamp Mobilize
+### Seedcamp Slack [x]
+### Google Campus Slack [x]
+### Runway East Slack [x]
+### Techhub Slack [ ]
+### Personal LinkedIn [ ]
+
+Called the "open mic night for tech", London Hack and Tell returns on Tuesday, 16. July!
+It's our anniversary Round 20 "Entropic Echidna"!
+
+Come to see a variety of speakers, ranging from software, robotics to hardware.
+The speakers will be demoing their recent projects and hacks!
+
+The format is 5 minutes talk, 5 minutes questions – so it's really fun and fast paced!
+
+https://www.meetup.com/London-Hack-and-Tell/events/fclkzqyzkbmb/
+
+Signup to speak https://goo.gl/forms/34zs7dEoOetKNJe93
+
+
+### Meetup
+# Use https://dillinger.io
+
+Subject:
+SUMMER HACKS: Round 20 "Entropic Echidna"
+
+Body:
+Good afternoon **Hackies and Tellies**!
+
+Our next meetup is coming up soon! In just under 2 weeks time, 16. July, we'll be gathering for Round 20 "Entropic Echidna".
+
+Come over if you're hungry for the latest and greatest in London robotics, tinkering and hacking. We take hacks from all ways of life: hardware, software and beyond.
+
+RSVP here https://www.meetup.com/London-Hack-and-Tell/events/fclkzqyzkbmb/
+
+Signup to speak or recommend friends [here](https://goo.gl/forms/34zs7dEoOetKNJe93)
+
+The venue for the event is the Automata HQ, here is a short message from our sponsors:
+
+*We make a robot called Eva - something that would never have been possible without mechanical hacks, electronic hacks and software hacks. We’re really looking forward to hosting all this devious brainpower in our kitchen - not in the least because we’ll definitely be trying to snatch some of you up to come and work with us. So if you’re hungry for wildly difficult problems to solve in electronics design, PHP, Javascript, C++ or Go, make sure you grab one of us for a chat! (Take a look at our hiring priorities [here](https://automata.tech/careers/))*
+
+Besto pesto,
+
+Janski, Huss and Xan
+Your local co-organizers
+
+P. S. See our amusing meetup photos from [the last event](https://www.meetup.com/London-Hack-and-Tell/events/fclkzqyzjbpb/)

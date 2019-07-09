@@ -1,0 +1,29 @@
+# Message from 2019-06-04
+# Use https://dillinger.io
+
+### Meetup
+
+Subject:
+WE AMUSE AGAIN: Round 19 "The Lizard's Tail"
+
+Body:
+Good morning Hackies and Tellies!
+
+Hope you're still excited about the return of Hack'n'Tell! We're brining you another event in June – get your hacks in shape and tell your friends, it's going to be awesome!
+
+Here is a short message from Automata, our sponsors:
+
+*We make a robot called Eva - something that would never have been possible without mechanical hacks, electronic hacks and software hacks. We’re really looking forward to hosting all this devious brainpower in our kitchen - not in the least because we’ll definitely be trying to snatch some of you up to come and work with us. So if you’re hungry for wildly difficult problems to solve in electronics design, PHP, Javascript, C++ or Go, make sure you grab one of us for a chat! (Take a look at our hiring priorities [here](https://automata.tech/careers/))*
+
+Our next meetup is coming up soon! In just under 2 weeks time, we'll be gathering again for Round 19 "The Lizard's Tail".
+
+The time is Tuesday, 18. June, 6.00pm at the Automata HQ by Angel **note the new venue**
+
+We're looking forward to hearing about what you've been up! [Sign-up to speak at](https://goo.gl/forms/34zs7dEoOetKNJe93)
+
+Besto pesto,
+
+Janski, Huss and Xan
+Your local co-organizers
+
+P. S. See our amusing meetup photos on [twitter](https://twitter.com/LndHackAndTell)

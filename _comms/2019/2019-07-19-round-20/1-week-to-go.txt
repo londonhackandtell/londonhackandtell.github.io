@@ -1,0 +1,24 @@
+# Message for 2019-06-28
+
+### Meetup email shot
+
+Subject:
+PREPARATIONS BEIGIN: Round 20: Entropic Echidna
+
+Body:
+Good afternoon **Hackies and Tellies**!
+
+Thanks so much for coming last week, hope you're as hyped as we are for our next round (Big Number – it's our 20 meetup!).
+
+We'll gather on July 16. Tuesday, at 6pm. Once again the venue is the Automata HQ in Islington.
+
+We're on the lookout for exciting and fun speakers. Know anybody or want to present yourself? [Sign up here and impress everyone with your hack](https://goo.gl/forms/34zs7dEoOetKNJe93).
+
+Here is a short message from Automata, our fantastic sponsors:
+
+*We make a robot called Eva - something that would never have been possible without mechanical hacks, electronic hacks and software hacks. We’re really looking forward to hosting all this devious brainpower in our kitchen - not in the least because we’ll definitely be trying to snatch some of you up to come and work with us. So if you’re hungry for wildly difficult problems to solve in electronics design, PHP, Javascript, C++ or Go, make sure you grab one of us for a chat! (Take a look at our hiring priorities [here](https://automata.tech/careers/))*
+
+Best wishes,
+
+Janski, Hussky and Xan
+Your local co-organizers

@@ -1,0 +1,27 @@
+# Message from 2018-11-15
+
+### Meetup
+
+Subject:
+THANK YOU and much more
+
+Body:
+Hi there Hackies and Tellies,
+
+What a tour de hack on Tuesday, thank you all so much for coming! European tech has never looked cooler, being a part of this group is super-amazing. Big big thanks to the speakers for the time and work they've put in, you guys are awesome!
+
+Round #15 "Santa vs Panda" is coming in soon, Tuesday 11. Dec, we'll soon send an announcement to your mailbox, the venue is secure. You can already signup to speak, c'mon we want those hacks https://goo.gl/forms/34zs7dEoOetKNJe93
+
+Photos from the meetup https://www.meetup.com/London-Hack-and-Tell/events/zxckjqyxpbrb/
+Meetup notes, slides, and links are available on our website too https://london.hackandtell.org/2018/11/13/round-15.html
+And best of all, Phillipe Grishin made a hilarious video of the meetup https://www.youtube.com/watch?v=EdJWuLnszPU&feature=youtu.be
+Automata Hack Open Invitation
+As mentioned in the presentation on Tuesday - If people have ideas for hacks that they would like to use the robot for please get in contact with us.  We can work out times with the person doing the hack, whether thats in the evenings or on the weekend or otherwise.  Depending on the complexity of the hack, it would be good to get ideas in by Nov 30th so that there is at least 2 weeks to get things working before the next Hack&&Tell.  Send ideas to ih+hack@automata.tech.
+
+Video link of Eva typing
+https://www.dropbox.com/s/wssj40yg0w9opi7/robot_typing.mp4?dl=0
+
+Big thanks to Campus London for hosting! We're actively looking for sponsors, so if you know anybody please give us a shout!
+
+Besto pesto,
+- Janski and Huss, your local co-organizers

@@ -1,0 +1,27 @@
+# Message from 2019-01-12
+
+### Meetup
+
+Subject:
+COUNTDOWN: Tuesday Round #17 "Monoids of Madness"
+
+Body:
+Good afternoon hackies and tellies,
+
+Hope y'all are having a great weekend – this is the big reveal we were all waiting for.
+
+We're meeting this Tuesday at Spaces City Road, Epworth House, 25 City Rd. We'll start gathering at 6.30pm and we'll start the talks at 7pm. Afterwards, heading to a nearby pub to celebrate new year with your favorite hacker crew.
+
+Here are the amazing talks we'll have for you this week!
+- "Git as a DownloadManager - How the f*** do I download #deadbeef?" by Gaetano Checinski, CEO at LoopPerfect
+- "breaking, then un-breaking, then re-breaking the internet" by the one and only Huss [@HUSSTECH](https://twitter.com/HUSSTECH) CTO of 9fin
+- Xan O'Shea will present a mysterious hardware hack
+- "Story of a 1-liner contribution to the PHP ecosystem in 2019" by Jan [@jandom_random](https://twitter.com/jandom_random) CTO of Labstep
+
+Many thanks to Spaces for letting us use their space free of charge; additionally thanks to Google for sharing their projector screen rig.
+
+Best wishes,
+
+- Janski & Huss
+Your local co-organizers
+https://twitter.com/LndHackAndTell

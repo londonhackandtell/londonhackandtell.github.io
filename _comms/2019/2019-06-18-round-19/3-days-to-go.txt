@@ -1,0 +1,37 @@
+# Message for 2019-06-13
+
+### Seedcamp Mobilize
+### Seedcamp Slack [x]
+### Google Campus Slack [x]
+### Runway East Slack [x]
+### Techhub Slack [x]
+### Personal LinkedIn [x]
+### Personal Twitter
+
+
+### Meetup email shot
+
+Subject:
+THIS TUESDAY: Round 19 "The Lizard's Tail"
+
+Body:
+Good afternoon London Hackers,
+
+We’re hyped for another round of hacks on Tuesday the 18th June. Once again we’re getting together at the Automata HQ near Angel.
+
+Here are the talks for this week
+- "Exploring the Gigatron"
+- "Got 150 outdated packages but... Handling a stale package.json"
+- "A Bitter Pill to Swallow"
+- "Google Doc + Dropbox? Introducing a new kind of web app based on Electron application framework"
+
+There’s still room for one or two more talks – make sure you get in quick. [Sign up here and impress everyone with your hack](https://goo.gl/forms/34zs7dEoOetKNJe93).
+
+Here is a short message from Automata, our fantastic sponsors. You may remember some of the hacks they've presented at the meetup:
+
+*We make a robot called Eva - something that would never have been possible without mechanical hacks, electronic hacks and software hacks. We’re really looking forward to hosting all this devious brainpower in our kitchen - not in the least because we’ll definitely be trying to snatch some of you up to come and work with us. So if you’re hungry for wildly difficult problems to solve in electronics design, PHP, Javascript, C++ or Go, make sure you grab one of us for a chat! [Take a look at our hiring priorities] (https://automata.tech/careers/)*
+
+Best wishes,
+
+Janski, Hussky and Xan
+Your local co-organisers

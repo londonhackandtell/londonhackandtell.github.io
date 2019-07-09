@@ -1,0 +1,25 @@
+# Message from 2018-09-13
+
+### Meetup
+
+Subject:
+TODAY: Round 14 "Vacuum Cleaner of Destiny"
+
+Body:
+
+Good afternoon London Hackers!
+
+So much excitement, looking forward to seeing you today evening! We've got an extra speaker for you tonight: Jason the CTO of SciApps will present
+
+- "Watch out for the Mushroom Cloud (formation)"
+
+So quite geeky for those of you keen on infrastructure as code.
+
+We're meeting today at Campus London, 4-5 Bonhill Street. Pizza will arrive at 6.30pm and we'll start the talks at 7pm. I'll greet you at the door and take you downstairs to the cafeteria, where the fun begins!
+
+We thank our pizza sponsors, Entrepreneur First [@join_ef](https://twitter.com/join_ef)
+As well as Campus London for hosting the event [@CampusLondon](https://twitter.com/CampusLondon)
+
+Best wishes,
+
+- Janski, your local organizer

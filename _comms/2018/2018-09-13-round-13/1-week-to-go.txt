@@ -1,0 +1,27 @@
+# Message from 2018-09-10
+
+### Meetup
+
+Subject:
+HACKS REVEALED: Round 13 "Optimus Fourier"
+
+Body:
+
+Good evening London Hackers!
+
+The countdown is ON for Round 13. Below is what you've been all waiting for: the talk line-up.
+
+- "How to come up with over 1000 content ideas in 15 minutes"
+- "My English NLP-ised"
+- "Orbs Game"
+- "Semantic Analysis, Visualisation and transpilation of buildscripts"
+- "Cracking the code... of the pizza promo code"
+
+Want to share your hacks with the community? We always want more – so don't hesitate to signup even now [sign-up form](https://goo.gl/forms/34zs7dEoOetKNJe93)
+
+We thank our sponsors, Entrepreneur First [@join_ef](https://twitter.com/join_ef)
+As well as Campus London for hosting the event [@CampusLondon](https://twitter.com/CampusLondon)
+
+Best wishes,
+
+- Janski

@@ -1,0 +1,61 @@
+# Message from 2019-05-07
+
+### Seedcamp Mobilize
+### Seedcamp Slack
+
+Your favorite tech meetup returns! In just 7 days, on 14. May, the London Hack’n’Tell we’ll provide you with a hack-filled feast (many presenters are Seedcamp portfolio founders). The venue is the Automata Tech HQ in Angel, 6pm start with pizza and drinks. Share with friends, co-workers, flatmates!
+
+Everyone is looking forward to hearing about *your* cool hack! The format is informal, engaging, and friendly: presenters have *5* minutes to show off their hack (it goes faster than you’d expect) and then the audience has 5 minutes to ask questions, make jokes, and suggest ideas and feedback.
+
+https://www.meetup.com/London-Hack-and-Tell/events/260965441/
+
+### Google Campus Slack
+
+Your favorite tech meetup returns! In just 7 days, on 14. May, the London Hack'n'Tell we'll provide you with a hack-filled feast. The venue is the Automata Tech HQ in Angel, 6pm start with pizza and drinks. Share with friends, co-workers, flatmates!
+
+Everyone is looking forward to hearing about *your* cool hack! The format is informal, engaging, and friendly: presenters have *5* minutes to show off their hack (it goes faster than you’d expect) and then the audience has 5 minutes to ask questions, make jokes, and suggest ideas and feedback.
+
+The hacks can come from all walks of life: software, hardware, finance, governance, fashion... You name it, we game it! But remember: no startup pitches, no dull work projects, no deckware!
+
+https://www.meetup.com/London-Hack-and-Tell/events/260965441/
+
+### Twitter
+
+It's 7 days and counting until the next meetup! Are you ready London Hackies and Tellies?
+
+This time, we're meeting at @automata_tech HQ in Angel – thanks guys for sponsoring us for the journey!
+
+RVSP https://www.meetup.com/London-Hack-and-Tell/events/260965441/
+Signup to speak https://goo.gl/forms/34zs7dEoOetKNJe93
+
+> Comment
+See Automata's career page for new and exciting job openings https://automata.tech/careers/
+
+### Meetup
+
+Subject:
+SEVEN DAYS AND COMING: Round 18 "Dark Side of the Spoon"
+
+Body:
+Good afternoon London Hackers!
+
+Wow, wow, wow – thank you so much for all the emails! We're all blown away by how many of you responded and submitted their talks – so great to be back!
+
+Just a quick reminder that our next meetup is in just 7 days. The speakers lined-up are truly amazing, we're in a for a treat! Bring your friends, co-workers and flatmates – it's bound to be a ton of fun on Tuesday. Here is our speaker line-up so far:
+
+- "Zen and Servo Motors" by Xan O'Shea
+- "Who Puppeteers the Puppeteer - A story about Scraping with Proxies, Tor and Botnets" by Gaetano Checinski, CEO at LoopPerfect
+- "Time Warp: Trick yourself into doing stuff with science!" by our own Huss [@HUSSTECH](https://twitter.com/HUSSTECH) CTO of 9fin
+- "How to make physical objects Morph?" by Antoni Pakowski
+- "Elasticbeanstalk - a brief look under the cover, basics of scale on AWS" by Jan Domanski [@jandom_random](https://twitter.com/jandom_random) CTO of Labstep
+
+There is still room for 1-2 talks – go boldly, become a presenter! Signup to speak [sign-up form](https://goo.gl/forms/34zs7dEoOetKNJe93)
+
+Here is a short message from Automata, our fantastic sponsors. You may remember some of the hacks they've presented at the meetup:
+
+We make a robot called Eva - something that would never have been possible without mechanical hacks, electronic hacks and software hacks. We’re really looking forward to hosting all this devious brainpower in our kitchen - not in the least because we’ll definitely be trying to snatch some of you up to come and work with us. So if you’re hungry for wildly difficult problems to solve in electronics design, PHP, Javascript, C++ or Go, make sure you grab one of us for a chat! (Take a look at our hiring priorities [here](https://automata.tech/careers/))
+
+Best wishes,
+
+- Janski and Hussky
+Your local co-organizers

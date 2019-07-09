@@ -1,0 +1,31 @@
+# Message from 2019-05-13
+
+### Meetup
+
+Subject:
+Join us today for ROUND 19: The Lizard's Tail
+
+Body:
+**Hello London HACK && TELL!**
+
+It's time for Round 19, The Lizard's Tail! Come join us today to see
+
+- "Exploring the Gigatron"
+- "Got 150 outdated packages but... Handling a stale package.json"
+- "A Bitter Pill to Swallow" (next month)
+- "Google Doc + Dropbox? Introducing a new kind of web app based on Electron application framework"
+- Gaetano
+- Cathrine
+
+Want to sign up to speak? We have space for a few more. [Signup here](https://goo.gl/forms/34zs7dEoOetKNJe93)!
+
+Here is a short message from Automata, our fantastic sponsors. You may remember some of the hacks they've presented at the meetup:
+
+*We make a robot called Eva - something that would never have been possible without mechanical hacks, electronic hacks and software hacks. We’re really looking forward to hosting all this devious brainpower in our kitchen - not in the least because we’ll definitely be trying to snatch some of you up to come and work with us. So if you’re hungry for wildly difficult problems to solve in electronics design, PHP, Javascript, C++ or Go, make sure you grab one of us for a chat! (Take a look at our hiring priorities [here](https://automata.tech/careers/))*
+
+
+See you later :)
+
+- Janski, Huss and Xan
+Your local co-organizers
+https://twitter.com/LndHackAndTell
