@@ -1,20 +1,44 @@
-# Message for 2019-06-28
+# Message for 2019-07-10
+
+### Seedcamp Mobilize
+### Seedcamp Slack [?]
+### Google Campus Slack [x]
+### Runway East Slack [x]
+### TechHub Slack [ ]
+### Jan LinkedIn [x]
+### Jan Twitter [x]
+
+London Hack and Tell returns on Tuesday, 16. July!
+
+Called the "open mic night for tech", we'll inspire your tinkering side – come to see a variety of speakers showing off their hacks from software, hardware to robotics.
+
+It's 5 minutes talk, 5 minutes audience questions (per speaker) so really fun and fast paced!
+
+RVSP https://www.meetup.com/London-Hack-and-Tell/events/fclkzqyzkbmb/
+
+Signup to speak https://goo.gl/forms/34zs7dEoOetKNJe93
+
+> Comment
+See Automata's career page for new and exciting job openings https://automata.tech/careers/
 
 ### Meetup email shot
+# Use https://dillinger.io to transform from markdown to HTML, copy and paste into meetup editor
 
 Subject:
-PREPARATIONS BEIGIN: Round 20: Entropic Echidna
+SEVEN DAYS AND COUNTING: Round 20 "Entropic Echidna"
 
 Body:
-Good afternoon **Hackies and Tellies**!
+Good afternoon London Hackers!
 
-Thanks so much for coming last week, hope you're as hyped as we are for our next round (Big Number – it's our 20 meetup!).
+Super excited to see you all next week for another portion of hacks! We'll gather on July 16. Tuesday, at 6pm, in the Automata HQ in Islington.
 
-We'll gather on July 16. Tuesday, at 6pm. Once again the venue is the Automata HQ in Islington.
+We'll be announcing the speaker list over the weekend, we've got some high flyers for you. Robotics and software are our bread and butter but we'll have some surprises too.
 
-We're on the lookout for exciting and fun speakers. Know anybody or want to present yourself? [Sign up here and impress everyone with your hack](https://goo.gl/forms/34zs7dEoOetKNJe93).
+There is still room for 1-2 talks – so apply and boldly go! Signup to speak [sign-up form](https://goo.gl/forms/34zs7dEoOetKNJe93)
 
-Here is a short message from Automata, our fantastic sponsors:
+RVSP on the [event page](https://www.meetup.com/London-Hack-and-Tell/events/fclkzqyzkbmb/)
+
+Here is a short message from Automata, our fantastic sponsors. You may remember some of the hacks they've presented at the meetup:
 
 *We make a robot called Eva - something that would never have been possible without mechanical hacks, electronic hacks and software hacks. We’re really looking forward to hosting all this devious brainpower in our kitchen - not in the least because we’ll definitely be trying to snatch some of you up to come and work with us. So if you’re hungry for wildly difficult problems to solve in electronics design, PHP, Javascript, C++ or Go, make sure you grab one of us for a chat! (Take a look at our hiring priorities [here](https://automata.tech/careers/))*
 
