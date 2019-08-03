@@ -1,0 +1,24 @@
+# Message for 2019-08-03
+
+### Meetup email shot
+
+Subject:
+HACKS FOUNDRY: Round 21 "The Summer Special"
+
+Body:
+Good morning **Hackies and Tellies**!
+
+Hope you had a lot of fun last time: with the robot wars and cucumber growth hacks. There is more coming with our "Summer Special", Round 21.
+
+We'll gather on August 20. Tuesday, at 6pm. The venue is the Automata HQ in Islington, generously provided by our sponsors.
+
+We're on the lookout for YOUR hacks and side-projects: [sign up here and impress everyone with your hack](https://goo.gl/forms/34zs7dEoOetKNJe93).
+
+Here is a short message from Automata, our fantastic sponsors:
+
+*We make a robot called Eva - something that would never have been possible without mechanical hacks, electronic hacks and software hacks. We’re really looking forward to hosting all this devious brainpower in our kitchen - not in the least because we’ll definitely be trying to snatch some of you up to come and work with us. So if you’re hungry for wildly difficult problems to solve in electronics design, PHP, Javascript, C++ or Go, make sure you grab one of us for a chat! (Take a look at our hiring priorities [here](https://automata.tech/careers/))*
+
+Best wishes,
+
+Janski, Hussky and Xan
+*Your local co-organizers*
