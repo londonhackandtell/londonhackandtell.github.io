@@ -1,0 +1,30 @@
+### Meetup email shot
+# Use https://dillinger.io to transform from markdown to HTML, copy and paste into meetup editor
+
+Subject:
+NIGHTTIME IS HACKTIME: Round 21 "Summer Special"
+
+Body:
+Good evening London Hackers!
+
+Hope you are all enjoying the "on and off summer" in London! If only there was a hack to control the weather...
+
+One week from now we'll be seeing another Round of the amaizing hacks you've prepared.
+Quiet time is the best time to get those side-projects off the ground so don't let anything stand in your way ;-)
+
+Super excited to see you all next week, we'll gather on August 20. Tuesday, at 6pm, in the Automata HQ in Islington.
+
+We'll be announcing the speaker list over the weekend. Gardening, software and hardware are our bread and butter... but we'll have some surprises too.
+
+There is still room for 1-2 talks – don't be shy! Signup to speak and boost your LinkedIn profile [sign-up form](https://goo.gl/forms/34zs7dEoOetKNJe93)
+
+RVSP on the [event page](https://www.meetup.com/London-Hack-and-Tell/events/fclkzqyzlbrb/)
+
+Here is a short message from Automata, our fantastic sponsors. You may remember some of the hacks they've presented at the meetup:
+
+*We make a robot called Eva - something that would never have been possible without mechanical hacks, electronic hacks and software hacks. We’re really looking forward to hosting all this devious brainpower in our kitchen - not in the least because we’ll definitely be trying to snatch some of you up to come and work with us. So if you’re hungry for wildly difficult problems to solve in electronics design, PHP, Javascript, C++ or Go, make sure you grab one of us for a chat! (Take a look at our hiring priorities [here](https://automata.tech/careers/))*
+
+Best wishes,
+
+Janski, Hussky and Xan
+Your local co-organizers

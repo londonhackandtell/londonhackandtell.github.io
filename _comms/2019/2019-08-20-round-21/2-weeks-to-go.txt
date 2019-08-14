@@ -1,0 +1,48 @@
+### Personal tweeter
+
+hey London people... hack-inclined minds will gather the next Hack'n'Tell. Round 21 "The Summer Special" is in just under 2 weeks. Speakers welcome!
+
+See just how much fun we are... can be?
+(link: https://www.meetup.com/London-Hack-and-Tell/photos/) meetup.com/London-Hack-an…
+
+RSVP (link: https://www.meetup.com/London-Hack-and-Tell/events/fclkzqyzlbrb/) meetup.com/London-Hack-an…
+
+
+
+
+### Meetup
+# Use https://dillinger.io
+
+Subject:
+APPROACHING: Round 21 "Summer Special"
+
+Body:
+Good morning **Hackies and Tellies**!
+
+In just under 2 weeks time, 20. August, we'll be meeting for Round 21 "Summer Special".
+
+Forgive the odd timing of this message but this is an experiment. By sending the message outside of your “busy hours” we hope to catch you with your mind hack-primed and ready to create. It’s often not about starting the hacks, as much as it is about wrapping them up! So let us be your accountability coach for a brief moment:
+- what's the ideal state of your hack to make it presentable?
+- what's the best way to thrust yourself into the "zone of hacking"?
+- what are the things that typically distract you from the zone?
+
+A couple of updates
+- we've crossed 1,1k members on meetup, hello to all of you joining!
+- we've crossed 20 events, which is a HUUUGE milestone, thank you all so much :-)
+
+Back to the announcement: come over if you're hungry for the latest and greatest in London robotics, tinkering and hacking. We take hacks from all ways of life: hardware, software and beyond.
+
+RSVP here https://www.meetup.com/London-Hack-and-Tell/events/fclkzqyzlbrb/
+
+Signup to speak or recommend friends [here](https://goo.gl/forms/34zs7dEoOetKNJe93)
+
+The venue for the event is the Automata HQ, here is a short message from our sponsors:
+
+*We make a robot called Eva - something that would never have been possible without mechanical hacks, electronic hacks and software hacks. We’re really looking forward to hosting all this devious brainpower in our kitchen - not in the least because we’ll definitely be trying to snatch some of you up to come and work with us. So if you’re hungry for wildly difficult problems to solve in electronics design, PHP, Javascript, C++ or Go, make sure you grab one of us for a chat! (Take a look at our hiring priorities [here](https://automata.tech/careers/))*
+
+Besto pesto,
+
+Janski, Huss and Xan
+Your local co-organizers
+
+P. S. See our amusing meetup photos from [the last event](https://www.meetup.com/London-Hack-and-Tell/events/fclkzqyzkbmb/)
