@@ -1,0 +1,32 @@
+### Personal tweeter
+
+### Meetup
+# Use https://dillinger.io
+
+Subject:
+BACK TO BUSINESS with Round 22: A Tale of Two Cities
+
+Body:
+Good evening **Hackies and Tellies**!
+
+To start on a cheery note: Saturday is over, and Sunday is nearly over... and Monday is approaching.
+But despair we shall not because a new hack'n'tell is closing in soon.
+In just under 2 weeks time, on Tuesday 17. September, we'll be meeting for Round 22 "A Tale of Two Cities".
+
+Come over if you're hungry for the latest and greatest in London robotics, gardening and hacking.
+We take hacks from all ways of life: you don't need to be an expert, you don't need to be a ninja, you just need to be keen (preferably, keen as mustard).
+
+RSVP [here](https://www.meetup.com/London-Hack-and-Tell/events/pgstfryzmbwb/)
+
+Signup to speak or recommend friends [here](https://goo.gl/forms/34zs7dEoOetKNJe93)
+
+The venue for the event is the Automata HQ, here is a short message from our sponsors:
+
+*We make a robot called Eva - something that would never have been possible without mechanical hacks, electronic hacks and software hacks. Check it out at [https://automata.tech/](https://automata.tech/)*
+
+Besto pesto,
+
+Janski, Huss and Xan
+Your local co-organizers
+
+P. S. See our amusing meetup photos from [the last event](https://www.meetup.com/London-Hack-and-Tell/events/fclkzqyzlbrb/)
