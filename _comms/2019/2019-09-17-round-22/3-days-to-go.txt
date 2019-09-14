@@ -1,0 +1,32 @@
+### Personal tweeter
+
+### Meetup
+# Use https://dillinger.io
+
+Subject:
+WEEKEND HACK PREP with Round 22: A Tale of Two Cities
+
+Body:
+Good evening **Hackies and Tellies**!
+
+We’re hyped for another round of hacks on Tuesday the 17th September. Once again we’re getting together at the Automata HQ near Angel.
+
+Here are the glorious speakers that will amuse you:
+- "Hack on how to grow new plants from cuttings, also known as propagation" by Milou van der Lans (gardening hacks return by popular demand!)
+- "Casting a Spell" by Xan O'Shea, 1st magic hack in history?
+- "Something Docker Related" by Huss, CTO at 9fin [@husstech](https://twitter.com/husstech)
+- "CloudFormation vs Terraform vs Pulumi - searching for the infrastructure as code Shangri-La." by Jan Domanski, CTO at Labstep [@jandom_random](https://twitter.com/jandom_random)
+
+Join us for for hacks, free pizza and beer and pub afterwards! [RSVP here](https://www.meetup.com/London-Hack-and-Tell/events/pgstfryzmbwb/)
+
+There’s still room for one or two more talks – make sure you get in quick. [Sign up here and impress everyone with your hack](https://goo.gl/forms/34zs7dEoOetKNJe93).
+
+Here is a short message from Automata, our fantastic sponsors. You may remember some of the hacks they've presented at the meetup:
+
+*We make a robot called Eva - something that would never have been possible without mechanical hacks, electronic hacks and software hacks. We’re really looking forward to hosting all this devious brainpower in our kitchen - not in the least because we’ll definitely be trying to snatch some of you up to come and work with us. So if you’re hungry for wildly difficult problems to solve in electronics design, PHP, Javascript, C++ or Go, make sure you grab one of us for a chat! [Take a look at our hiring priorities](https://automata.tech/careers/)*
+
+Best wishes,
+Janski, Hussky and Xan
+[Your local co-organizers](https://twitter.com/LndHackAndTell)
+
+[https://www.meetup.com/London-Hack-and-Tell/events/pgstfryzmbwb/](https://www.meetup.com/London-Hack-and-Tell/events/pgstfryzmbwb/)
