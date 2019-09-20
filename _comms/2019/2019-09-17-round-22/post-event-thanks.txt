@@ -1,0 +1,28 @@
+# Message from 2019-09-20
+
+### Meetup
+
+Subject:
+THANK YOU and next round
+
+Body:
+Good morning **Hackies and Tellies**,
+
+Many thanks for to all of you attending, being such wonderful guests, and a special thanks to our splendid speaker-hackers. Well done everyone, we did it again!
+
+In case you missed the event or want to refresh your memory:
+- Meetup notes and speaker slides are up, see the [writeup](https://london.hackandtell.org/2019/09/17/round-22.html)
+- Find yourself in the photos [here](https://www.meetup.com/London-Hack-and-Tell/photos/30364769/)
+
+Stay tuned for the [next gathering](https://www.meetup.com/London-Hack-and-Tell/events/pgstfryznbtb/) taking place on September 17. We'll send the announcement soon!
+
+In the meantime, how about these side-projects you've been working on? That EVERYONE is dying to see? [Signup to speak](https://goo.gl/forms/34zs7dEoOetKNJe93)
+
+Lastly, a massive shout out to our sponsors Automata Tech! Here is a quick message from these great guys:
+
+*We make a robot called Eva - something that would never have been possible without mechanical hacks, electronic hacks and software hacks. We’re really looking forward to hosting all this devious brainpower in our kitchen - not in the least because we’ll definitely be trying to snatch some of you up to come and work with us. So if you’re hungry for wildly difficult problems to solve in electronics design, PHP, Javascript, C++ or Go, make sure you grab one of us for a chat! (Take a look at our hiring priorities [here](https://automata.tech/careers/))*
+
+Besto pesto,
+
+Janski, Huss and Xan
+[Your local co-organizers](https://twitter.com/LndHackAndTell)
