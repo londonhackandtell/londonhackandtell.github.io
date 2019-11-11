@@ -1,0 +1,31 @@
+# Message from 2019-11-11
+
+### Seedcamp Slack [ ]
+### Google Campus Slack [ ]
+### Runway East Slack [ ]
+### EveryLabstep Slack [ ]
+### Techhub Slack [ ]
+### Personal LinkedIn [ ]
+### Personal Twitter
+
+### Meetup email shot
+
+Subject:
+NEXT TUESDAY Round 24: Boulevard of Broken Symmetry
+
+Body:
+Good evening London Hackers,
+
+Ladies and gentlemen, brothers and sisters... comrades?
+The moment we've been all waiting for is approaching rapidly: another round of hacks on Tuesday 19th November.
+Once again we’re getting together at the Automata HQ near Angel.
+
+Do you have some useful hacks you wanna share with others? [Sign up here and impress everyone with your hack](https://goo.gl/forms/34zs7dEoOetKNJe93).
+
+Here is a short message from Automata, our fantastic sponsors. You may remember some of the hacks they've presented at the meetup:
+
+*We make a robot called Eva - something that would never have been possible without mechanical hacks, electronic hacks and software hacks. Check it out at [https://automata.tech/](https://automata.tech/)*
+Best wishes,
+
+Janski, Hussky and Xan
+Your local co-organisers
