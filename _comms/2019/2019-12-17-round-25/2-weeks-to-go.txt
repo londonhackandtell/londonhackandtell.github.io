@@ -1,0 +1,30 @@
+### Personal tweeter
+
+### Meetup
+# Use https://dillinger.io to covert from Markdown into HTML.
+# Then copy&paste the HTML into the meetup mailshot
+
+Subject:
+IT'S THE HACKIEST TIME OF THE YEAR with Round 25: Reindeer Relay
+
+Body:
+Good afternoon **Hackies and Tellies**!
+
+Let's wrap up this year with a blast - the last hack and tell is here to amuse you. We'll reflect on our past, think about our future... present our preset hacks, or hack-presents? See what we did there?
+
+RSVP [here](https://www.meetup.com/London-Hack-and-Tell/events/pgstfryzqbwb/)
+
+We're looking for fill our speaker roster, still got a slot or two open that has YOUR name on it. It's way easier than you imagine and this month will be the one that you decide "I'm going to give that a go..."
+[Fill in the form here](https://goo.gl/forms/34zs7dEoOetKNJe93)
+
+The venue for the event is the Automata HQ, here is a short message from our sponsors:
+
+*We make a robot called Eva - something that would never have been possible without mechanical hacks, electronic hacks and software hacks. Check it out at [https://automata.tech/](https://automata.tech/)*
+
+Best wishes,
+
+Janski, Huss
+
+[Your local co-organizers](https://twitter.com/LndHackAndTell)
+
+P. S. See our amusing meetup photos from [the last event](https://www.meetup.com/London-Hack-and-Tell/events/pgstfryzpbzb/)
