@@ -25,7 +25,7 @@ Here is a short message from Automata, our fantastic sponsors. You may remember 
 *We make a robot called Eva - something that would never have been possible without mechanical hacks, electronic hacks and software hacks. We’re really looking forward to hosting all this devious brainpower in our kitchen - not in the least because we’ll definitely be trying to snatch some of you up to come and work with us. So if you’re hungry for wildly difficult problems to solve in electronics design, PHP, Javascript, C++ or Go, make sure you grab one of us for a chat! [Take a look at our hiring priorities](https://automata.tech/careers/)*
 
 Best wishes,
-Janski, Hussky and Xan
+Janski and Hussky 
 [Your local co-organizers](https://twitter.com/LndHackAndTell)
 
 [RSVP here](https://www.meetup.com/London-Hack-and-Tell/events/pgstfryzqbwb/)

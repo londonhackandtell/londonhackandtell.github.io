@@ -1,0 +1,24 @@
+# Message from 2019-12-16
+
+### Meetup
+
+Subject:
+RETURNING TOMORROW Round 25: Reindeer Relay
+
+Body:
+Good evening London Hackers,
+
+We’re hyped for another round of hacks on tomorrow [RSVP](https://www.meetup.com/London-Hack-and-Tell/events/pgstfryzqbwb/).
+Once again we’re getting together at the Automata HQ near Angel, free pizza and beer will be there too. Maybe a cheeky pub afterwards?
+
+There’s still room for one or two more talks – make sure you get in quick. [Sign up here and impress everyone with your hack](https://goo.gl/forms/34zs7dEoOetKNJe93).
+
+Here is a short message from Automata, our fantastic sponsors. You may remember some of the hacks they've presented at the meetup:
+
+*We make a robot called Eva - something that would never have been possible without mechanical hacks, electronic hacks and software hacks. We’re really looking forward to hosting all this devious brainpower in our kitchen - not in the least because we’ll definitely be trying to snatch some of you up to come and work with us. So if you’re hungry for wildly difficult problems to solve in electronics design, PHP, Javascript, C++ or Go, make sure you grab one of us for a chat! [Take a look at our hiring priorities](https://automata.tech/careers/)*
+
+Best wishes,
+
+Janski and Hussky
+
+[Your local co-organizers](https://twitter.com/LndHackAndTell)
