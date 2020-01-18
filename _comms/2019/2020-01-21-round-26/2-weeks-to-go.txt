@@ -1,0 +1,32 @@
+### Meetup
+# Use https://dillinger.io to covert from Markdown into HTML.
+# Then copy&paste the HTML into the meetup mailshot
+
+Subject:
+COMING UP Round 26: Sea Horse With a Snapback
+
+Body:
+Good evening **Hackies and Tellies**!
+
+This email wouldn't be true to itself without a cliche: new year, new hacks!
+We welcome you all back in 2020, the year 20x better and more fun than 2019.
+If last year you missed out on our meetup, now is your time to shine: come check out the crowd, have pizza and beer.
+If you feel so inclined, we welcome speakers of all tech levels: the 5 min talk, 5 min questions format encourages presentation of small projects.
+After all what can be easier than putting together a 5 min talk? (Please don't say "a zero minute talk"...)
+
+RSVP [here](https://www.meetup.com/London-Hack-and-Tell/events/pgstfrybccbcc/)
+
+We're looking for fill our speaker roster, still got a slot or two open that has YOUR name on it. It's way easier than you imagine and this month will be the one that you decide "I'm going to give that a go..."
+[Fill in the form here](https://goo.gl/forms/34zs7dEoOetKNJe93)
+
+The venue for the event is the Automata HQ, here is a short message from our sponsors:
+
+*We make a robot called Eva - something that would never have been possible without mechanical hacks, electronic hacks and software hacks. Check it out at [https://automata.tech/](https://automata.tech/)*
+
+Best wishes,
+
+Janski and Huss
+
+[Your local co-organizers](https://twitter.com/LndHackAndTell)
+
+P. S. See our amusing meetup photos from [the last event](https://www.meetup.com/London-Hack-and-Tell/events/pgstfryzqbwb/)
