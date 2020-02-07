@@ -1,0 +1,37 @@
+### Meetup
+# Use https://dillinger.io to covert from Markdown into HTML.
+# Then copy&paste the HTML into the meetup mailshot
+
+Subject:
+BERMONDSEY RETURNS Round 27: The Whisky Fairies
+
+Body:
+Good evening **Hackies and Tellies**!
+
+A couple of big announcements: we have a new sponsor AND a new venue.
+It's back to Bermondsey, where it all started! Ground zero for London Hack'n'Tell.
+We should be set for another 3 months while we continue to figure things out.
+
+Please give a round of applause to Peter Chen of JP Morgan who will be the sponsor for the pizza.
+
+Equally big claps for The Engineering Company, who have allowed us to host at their office. Here is a quote from Pari, their CEO
+*We're building technologies to democraitese the design of complex hardware (kids can design rocket engines, robotics and UAVs in hours)*
+Looking for more about The Engineering Company [checkout their careers](https://angel.co/company/the-engineering-company/jobs)
+
+Back back to our hacks! RSVP [here](https://www.meetup.com/London-Hack-and-Tell/events/nqzsnrybcdbxb/)
+
+Please join the speaker roster, as a small meetup we're dependent on awesome speakers like you.
+5 minute demo, 5 minutes questions.
+Here is the speaker leaderboard, see if you can join their ranks*!
+- 1st place, Gaetano C with a whooping 4 talks
+- 2nd place, Marta K with 3 hacks, still dominating while being away
+- 3rd place, Deqian and Michael T tied with 2 talks each
+
+Wanna beat these guys? Signup to speak! Wanna keep you place? Same answer.
+[Fill in the form here](https://goo.gl/forms/34zs7dEoOetKNJe93)
+
+Best wishes,
+Janski and Huss
+[Your local co-organizers](https://twitter.com/LndHackAndTell)
+
+(*) This ranking is not fully accurate because we've used the google form
