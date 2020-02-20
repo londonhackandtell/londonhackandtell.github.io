@@ -1,0 +1,33 @@
+### Personal tweeter
+
+### Meetup
+# Use https://dillinger.io
+
+Subject:
+NEW VENUE TOMORROW Round 27: The Whisky Fairies (directions inside)
+
+Body:
+Good evening **Hackies and Tellies**!
+
+See you all tomorrow for a barrage of hacks. And holly cow do we have an amazing line-up for you tomorrow! So without further wait:
+
+- "Kotlin multi-platform and RPI custom Christmas lights" by Adomas Boruta from Hyperexponential
+- "Close Encounters of the 17th Kind: C++ 17 destructuring assignment" by Jan Domanski [@jandom_random](https://twitter.com/jandom_random)
+- "How it's made: circuit boards" by Alessio Morale [@alessiomorale](https://twitter.com/alessiomorale) [link](https://alessiomorale.com/wordpress/2020/02/03/unav2-integrated-board-prototype/)
+
+We're looking for fill our speaker roster, still got a slot or two open that has YOUR name on it. It's way easier than you imagine and this month will be the one that you decide "I'm going to give that a go..."
+
+[Signup to speak here](https://goo.gl/forms/34zs7dEoOetKNJe93)
+[RSVP to the event here](https://www.meetup.com/London-Hack-and-Tell/events/nqzsnrybcdbxb/)
+
+Big big thanks to Pari and the Engineering Company for providing the venue.
+Equally, massive massive thank you to Peter Chen for sponsoring the pizzas!
+
+**New venue tomorrow** we're back in Bermondsey!
+Directions if you’re coming from Bermondsey Station: Turn right out of Bermondsey station and take the second right onto Drummond Road. Follow down Drummond Road, past Clements Road. The first right after Clements Road is the parking lot of our building (there will be a few upright poles as blockers into the road and might be a red and white plastic barrier). We’re in the office on that corner, on the second floor up. Come down the road/parking lot for the building entrance and enter 213 into the panel and come up to the second floor!
+
+Join us for for hacks, free pizza pub afterwards!
+
+Best wishes,
+Janski and Hussky
+[Your local co-organizers](https://twitter.com/LndHackAndTell)
