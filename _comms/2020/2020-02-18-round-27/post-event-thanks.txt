@@ -1,0 +1,23 @@
+# Message from 2020-02-20
+
+### Meetup
+
+Subject:
+THANK YOU and what comes next?
+
+Body:
+Good evening **Hackies and Tellies**,
+
+Many thanks all of you who came to our 2nd meetup in 2020. Massive thanks to our speakers, who's ingenious hacks amused us!
+
+In case you missed the event or want to refresh your memory:
+- Meetup notes and speaker slides are up, see the [writeup](https://london.hackandtell.org/2020/02/18/round-27.html)
+
+A massive shout out to our sponsor Peter Chen! He's the one who covers the bill when it comes to pizza... and he's a super-nice guy too.
+Also, big big thanks to The Engineering Company and Pari for hosting the event.
+
+Round 28 is ahead and we'll soon be sending out the announcement!
+
+Best wishes,
+Janski and Huss
+[Your local co-organizers](https://twitter.com/LndHackAndTell)
